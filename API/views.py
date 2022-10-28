@@ -10,8 +10,9 @@ def orders(request):
 
     if request.method == 'POST':
         data = json.loads(request.body.decode())
+        orderId = list(data.keys())[0]
 
-        allOrders.append(data)
+        allOrders[orderId] = data[orderId]
 
         with open('assets/orders.json', 'w') as orders:
             json.dump(allOrders, orders, indent=4)
