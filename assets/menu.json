@@ -1,0 +1,167 @@
+[
+    {
+        "itemID": 9,
+        "filePath": "assets/menu/9854.jpg",
+        "item": "Chicken 65",
+        "unit": 158,
+        "isNonVeg": true,
+        "rating": [
+            1,
+            1,
+            1,
+            1,
+            0
+        ],
+        "serves": 2
+    },
+    {
+        "itemID": 2357,
+        "filePath": "assets/menu/2357.jpg",
+        "item": "Dosa",
+        "unit": 67,
+        "isNonVeg": false,
+        "rating": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "serves": 1
+    },
+    {
+        "itemID": 2352,
+        "filePath": "assets/menu/2352.jpg",
+        "item": "Chicken Briyani",
+        "unit": 185,
+        "isNonVeg": true,
+        "rating": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "serves": 2
+    },
+    {
+        "itemID": 3222,
+        "filePath": "assets/menu/3222.jpg",
+        "item": "Veg Fried Rice",
+        "unit": 110,
+        "isNonVeg": false,
+        "rating": [
+            1,
+            1,
+            1,
+            0,
+            0
+        ],
+        "serves": 1
+    },
+    {
+        "itemID": 9984,
+        "filePath": "assets/menu/9984.jpg",
+        "item": "Chapati",
+        "unit": 69,
+        "isNonVeg": false,
+        "rating": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "serves": 1
+    },
+    {
+        "itemID": 1111,
+        "filePath": "assets/menu/1111.jpg",
+        "item": "Peas Pulao",
+        "unit": 160,
+        "isNonVeg": false,
+        "rating": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "serves": 2
+    },
+    {
+        "itemID": 1112,
+        "filePath": "assets/menu/1112.webp",
+        "item": "Tomato Pulao",
+        "unit": 140,
+        "isNonVeg": false,
+        "rating": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "serves": 2
+    },
+    {
+        "itemID": 1087,
+        "filePath": "assets/menu/1087.jpg",
+        "item": "Cold Coffee",
+        "unit": 90,
+        "isNonVeg": false,
+        "rating": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "serves": 2
+    },
+    {
+        "itemID": 1167,
+        "filePath": "assets/menu/1167.jpg",
+        "item": "Poori",
+        "unit": 78,
+        "isNonVeg": false,
+        "rating": [
+            1,
+            1,
+            1,
+            1,
+            0
+        ],
+        "serves": 1
+    },
+    {
+        "itemID": 7895,
+        "filePath": "assets/menu/7895.jpg",
+        "item": "Veg Noodles",
+        "unit": 90,
+        "isNonVeg": false,
+        "rating": [
+            1,
+            1,
+            1,
+            1,
+            0
+        ],
+        "serves": 2
+    },
+    {
+        "itemID": 8756,
+        "filePath": "assets/menu/8756.jpg",
+        "item": "Ice Cream",
+        "unit": 66,
+        "isNonVeg": false,
+        "rating": [
+            1,
+            1,
+            1,
+            1,
+            0
+        ],
+        "serves": 1
+    }
+]

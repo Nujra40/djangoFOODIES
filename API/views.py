@@ -4,6 +4,21 @@ from django.shortcuts import render
 import json
 
 # Create your views here.
+def getMenu(request):
+    if request.method == 'POST':
+        data = json.loads(request.body.decode())
+        data = json.loads(data['menu'])
+        
+        with open('assets/menu.json', 'w') as menuFile:
+            json.dump(data, menuFile, indent=4)
+        
+        return JsonResponse({})
+    
+    with open('assets/menu.json') as menuFile:
+        menu = json.load(menuFile)
+
+    return JsonResponse(menu, safe=False)
+
 def orders(request):
     with open('assets/orders.json') as orders:
         allOrders = json.load(orders)

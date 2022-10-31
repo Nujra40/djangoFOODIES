@@ -4,7 +4,38 @@
         "email": "arjun@yahooffo.com",
         "phno": "+91 9886756435",
         "password": "qweQWE123",
-        "cartData": []
+        "cartData": [
+            {
+                "itemID": 1087,
+                "filePath": "assets/menu/1087.jpg",
+                "item": "Cold Coffee",
+                "unit": 90,
+                "isNonVeg": false,
+                "rating": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "serves": 2
+            },
+            {
+                "itemID": 2357,
+                "filePath": "assets/menu/2357.jpg",
+                "item": "Dosa",
+                "unit": 67,
+                "isNonVeg": false,
+                "rating": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "serves": 1
+            }
+        ]
     },
     {
         "name": "asd",
@@ -12,5 +43,149 @@
         "phno": "+91 9886756435",
         "password": "qweQWE123",
         "cartData": []
+    },
+    {
+        "name": "Arjun",
+        "email": "varun@gmail.com",
+        "phno": "+91 9883455545",
+        "password": "ASDqwe123",
+        "cartData": [
+            {
+                "itemID": 1087,
+                "filePath": "assets/menu/1087.jpg",
+                "item": "Cold Coffee",
+                "unit": 90,
+                "isNonVeg": false,
+                "rating": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "serves": 2
+            },
+            {
+                "itemID": 8756,
+                "filePath": "assets/menu/8756.jpg",
+                "item": "Ice Cream",
+                "unit": 66,
+                "isNonVeg": false,
+                "rating": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ],
+                "serves": 1
+            }
+        ]
+    },
+    {
+        "name": "preetham",
+        "email": "preethamvooturi003@gmail.com",
+        "phno": "+91 9886756435",
+        "password": "28/Jun/2004",
+        "cartData": [
+            {
+                "itemID": 9984,
+                "filePath": "assets/menu/9984.jpg",
+                "item": "Chapati",
+                "unit": 69,
+                "isNonVeg": false,
+                "rating": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "serves": 1
+            },
+            {
+                "itemID": 1111,
+                "filePath": "assets/menu/1111.jpg",
+                "item": "Peas Pulao",
+                "unit": 160,
+                "isNonVeg": false,
+                "rating": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "serves": 2
+            },
+            {
+                "itemID": 3222,
+                "filePath": "assets/menu/3222.jpg",
+                "item": "Veg Fried Rice",
+                "unit": 110,
+                "isNonVeg": false,
+                "rating": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    0
+                ],
+                "serves": 1
+            }
+        ]
+    },
+    {
+        "name": "J.Harikrishnan",
+        "email": "Hari@gmail.com",
+        "phno": "+917550184236",
+        "password": "Hari@2731",
+        "cartData": [
+            {
+                "itemID": 9854,
+                "filePath": "assets/menu/9854.jpg",
+                "item": "Chicken 65",
+                "unit": 158,
+                "isNonVeg": true,
+                "rating": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ],
+                "serves": 2
+            },
+            {
+                "itemID": 2357,
+                "filePath": "assets/menu/2357.jpg",
+                "item": "Dosa",
+                "unit": 67,
+                "isNonVeg": false,
+                "rating": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "serves": 1
+            },
+            {
+                "itemID": 8756,
+                "filePath": "assets/menu/8756.jpg",
+                "item": "Ice Cream",
+                "unit": 66,
+                "isNonVeg": false,
+                "rating": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ],
+                "serves": 1
+            }
+        ]
     }
 ]
