@@ -34,6 +34,21 @@
                     1
                 ],
                 "serves": 1
+            },
+            {
+                "itemID": 9854,
+                "filePath": "assets/menu/9854.jpg",
+                "item": "Chicken 65",
+                "unit": 158,
+                "isNonVeg": true,
+                "rating": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ],
+                "serves": 2
             }
         ]
     },

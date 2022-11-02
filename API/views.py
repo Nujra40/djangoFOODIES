@@ -60,7 +60,6 @@ def pushCart(request):
 
             search = -1
             for user in userCred:
-                print(user)
                 search += 1
                 if user['email'].lower() == data['email'].lower():
                     break

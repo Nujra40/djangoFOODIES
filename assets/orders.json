@@ -378,5 +378,55 @@
             "serves": 2,
             "qty": 1
         }
+    ],
+    "1667392402615": [
+        {
+            "itemID": 1087,
+            "filePath": "assets/menu/1087.jpg",
+            "item": "Cold Coffee",
+            "unit": 90,
+            "isNonVeg": false,
+            "rating": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "serves": 2,
+            "qty": 1
+        },
+        {
+            "itemID": 2357,
+            "filePath": "assets/menu/2357.jpg",
+            "item": "Dosa",
+            "unit": 67,
+            "isNonVeg": false,
+            "rating": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "serves": 1,
+            "qty": 1
+        },
+        {
+            "itemID": 9854,
+            "filePath": "assets/menu/9854.jpg",
+            "item": "Chicken 65",
+            "unit": 158,
+            "isNonVeg": true,
+            "rating": [
+                1,
+                1,
+                1,
+                1,
+                0
+            ],
+            "serves": 2,
+            "qty": 1
+        }
     ]
 }
