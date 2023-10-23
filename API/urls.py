@@ -9,5 +9,8 @@ urlpatterns = [
     path('orders/', views.orders),
     path('getCart/<str:email>/', views.getCart),
     path('pushCart/', views.pushCart),
-    path('getMenu/', views.getMenu)
+    path('getMenu/', views.getMenu),
+    path('pushInvoice/', views.pushInvoice),
+    path('getInvoice/<str:email>/', views.getInvoice),
+    path('getAccessToken_instagram/', views.getAccessToken_instagram)
 ]
